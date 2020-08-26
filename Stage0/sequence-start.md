@@ -13,7 +13,7 @@ Ball starts moving and colliding the walls.
 
 ## Movement Initiation
 
-Ball-Move and Paddle-Move handle the movements.
+Ball-Movement and Paddle-Movement handle the movements.
 
 Collisions-handler and Direction-Change-Handler handle the Collision and Change in direction respectively
 
